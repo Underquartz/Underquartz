@@ -1,7 +1,7 @@
 
 
 
-### Ola eu sou Underquartz
+### Ola eu sou Underquartz! XD
 
 <h2 align="left">Techs</h2>
 
